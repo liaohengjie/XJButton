@@ -1,9 +1,10 @@
+Pod::Spec.new do |s|
   s.name         = "XJButton"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "创建button时初始化图片在左或上"
   s.description  = <<-DESC
 
-创建button时初始化图片在左或上,已扩展
+创建button时初始化图片在左或上,易扩展
                    DESC
 
   s.homepage     = "https://github.com/liaohengjie/XJButton"
